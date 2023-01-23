@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/surrealdb/surrealdb.go/internal/websocket"
+	"github.com/timpratim/surrealdb.go/internal/websocket"
 )
 
 const statusOK = "OK"
