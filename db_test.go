@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/surrealdb/surrealdb.go"
+	"github.com/timpratim/surrealdb.go"
 )
 
 // a simple user struct for testing
